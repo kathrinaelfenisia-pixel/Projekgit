@@ -1,0 +1,26 @@
+
+
+.container{
+  justify-content: start;
+  height: 300px;
+  width: 300px;
+  background-color: pink;
+  margin-top:20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding: 20px;
+  }
+  
+  .card{
+    display: flex;
+    justify-content: start;
+  }
+  
+  .card-gambar{
+    height: 200px;
+    width: 235px;
+    display: flex;
+    justify-content: center;
+    padding-left: 25px;
+  }
